@@ -17,7 +17,7 @@ This repo implements the idea of connecting the Postgres database to Python.
 
 ## Git commands
 
-To add all file = `git add .`
-To add any particular file = `git add <file_name>`
-To commit = `git commit -m "commit message"`
-To push the code = `git push origin main`
+- To add all file = `git add .`
+- To add any particular file = `git add <file_name>`
+- To commit = `git commit -m "commit message"`
+- To push the code = `git push origin main`
